@@ -1,4 +1,8 @@
 # 🦝 Raccoon Activity Analysis in Toronto
+
+## Tableau Dashboard
+[Raccoon in Toronto Dashboard](https://public.tableau.com/app/profile/yusei.hosoya/viz/RaccooninToronto/Dashboard1?publish=yes)
+
 ![Raccoon Activity Analysis](Raccoon%20Activity%20Analysis%20in%20Toronto.png)
 ## 📊 Overview
 This project analyzes raccoon activity patterns in Toronto using SQL and Tableau.  
