@@ -3,7 +3,7 @@
 ## Tableau Dashboard
 [Raccoon in Toronto Dashboard](https://public.tableau.com/app/profile/yusei.hosoya/viz/RaccooninToronto/Dashboard1?publish=yes)
 
-![Raccoon Activity Analysis](Raccoon.png)
+![Raccoon Activity Analysis](<img width="2572" height="5508" alt="Raccoon" src="https://github.com/user-attachments/assets/3d0e8b71-b31a-4303-9c1a-a84c342219e6" />)
 ## 📊 Overview
 This project analyzes raccoon activity patterns in Toronto using SQL and Tableau.  
 The goal is to identify where and when raccoon-related incidents occur, and what factors contribute to the damage.
